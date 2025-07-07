@@ -6,8 +6,8 @@
     <version>0.11.0</version>
     <authors>Armourstill</authors>
     <owners>Armourstill</owners>
-    <licenseUrl>https://github.com/armourstill/gbase64/blob/main/LICENSE</licenseUrl>
-    <packageSourceUrl>https://github.com/armourstill/gbase64-pkg</packageSourceUrl>
+    <licenseUrl>https://github.com/armourstill/gbase64-pkg/blob/main/choco/tools/LICENSE.txt</licenseUrl>
+    <packageSourceUrl>https://github.com/armourstill/gbase64-pkg/tree/main/choco</packageSourceUrl>
     <projectUrl>https://github.com/armourstill/gbase64</projectUrl>
     <!-- There are a number of CDN Services that can be used for hosting the Icon for a package. More information can be found here: https://docs.chocolatey.org/en-us/create/create-packages#package-icon-guidelines -->
     <!-- Here is an example using Githack -->
