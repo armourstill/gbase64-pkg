@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>gbase64</id>
+    <title>Gbase64</title>
+    <version>0.11.0</version>
+    <authors>Armourstill</authors>
+    <owners>Armourstill</owners>
+    <licenseUrl>https://github.com/armourstill/gbase64/blob/main/LICENSE</licenseUrl>
+    <packageSourceUrl>https://github.com/armourstill/gbase64-pkg</packageSourceUrl>
+    <projectUrl>https://github.com/armourstill/gbase64</projectUrl>
+    <!-- There are a number of CDN Services that can be used for hosting the Icon for a package. More information can be found here: https://docs.chocolatey.org/en-us/create/create-packages#package-icon-guidelines -->
+    <!-- Here is an example using Githack -->
+    <!--<iconUrl>http://rawcdn.githack.com/__REPLACE_YOUR_REPO__/master/icons/gbase64.png</iconUrl>-->
+    <tags>base64</tags>
+    <summary>A base64 CLI tool with more features</summary>
+    <releaseNotes>The init submission</releaseNotes>
+    <description># gbase64
+Encode/Decode data from FILE or standard input, to standard output.
+
+## Usage
+```shell
+gbase64 [OPTION]... [FILE]
+```
+With no FILE, or when FILE is -, read standard input.
+
+## Extra features
+- `--url, -u`: encode/decode with URL format, defined in RFC 4648
+- `--no-padding, -n`: encode with no-padding mode
+    </description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
