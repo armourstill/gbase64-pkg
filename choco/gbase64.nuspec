@@ -6,15 +6,16 @@
     <version>0.11.0</version>
     <authors>Armourstill</authors>
     <owners>Armourstill</owners>
-    <licenseUrl>https://github.com/armourstill/gbase64-pkg/blob/main/choco/tools/LICENSE.txt</licenseUrl>
-    <packageSourceUrl>https://github.com/armourstill/gbase64-pkg/tree/main/choco</packageSourceUrl>
+    <licenseUrl>https://github.com/armourstill/gbase64-pkg/blob/v0.11.0/choco/tools/LICENSE.txt</licenseUrl>
+    <packageSourceUrl>https://github.com/armourstill/gbase64-pkg/tree/v0.11.0/choco</packageSourceUrl>
     <projectUrl>https://github.com/armourstill/gbase64</projectUrl>
+    <projectSourceUrl>https://github.com/armourstill/gbase64</projectSourceUrl>
     <!-- There are a number of CDN Services that can be used for hosting the Icon for a package. More information can be found here: https://docs.chocolatey.org/en-us/create/create-packages#package-icon-guidelines -->
     <!-- Here is an example using Githack -->
     <!--<iconUrl>http://rawcdn.githack.com/__REPLACE_YOUR_REPO__/master/icons/gbase64.png</iconUrl>-->
     <tags>base64</tags>
     <summary>A base64 CLI tool with more features</summary>
-    <releaseNotes>The init submission</releaseNotes>
+    <releaseNotes>https://github.com/armourstill/gbase64/releases</releaseNotes>
     <description># gbase64
 Encode/Decode data from FILE or standard input, to standard output.
 
