@@ -1,5 +1,0 @@
-The contents of this folder were downloaded as follows:
-    - From:     https://github.com/armourstill/gbase64/releases/download/v0.12.0/gbase64-v0.12.0.windows.amd64.zip
-    - SHA256:   CAE05445AFBCF23EBD41E7BB40C86B82CDD64EAFBC70C06403B6B2906E3EE674
-
-This file was created by armourstill package maintainer.
